@@ -1,0 +1,16 @@
+{
+    "port": 8081,
+    "mongodb": {
+        "host": "",
+        "db": "",
+        "port": 27017,
+        "max_pool_size": 500,
+        "username": "",
+        "password": "",
+        "options": {
+            "useUnifiedTopology": true
+        }
+    },
+    "timeout": 45000,
+    "API_JWT_ACCESS_TOKEN" : "anythingsuspicious"
+}
